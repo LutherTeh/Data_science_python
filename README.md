@@ -1,6 +1,4 @@
-# Python_For_Data_Analysis
+# Data Science in python
 
-This repo contains Jupyter notebooks used to create my 30 part introduction to Python for data analysis published on my blog.
-The index for the guide can be found here: http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html 
+This is an introduction course to data science using python
 
-The notebooks in this repo are not fully edited for spelling, grammar etc.
